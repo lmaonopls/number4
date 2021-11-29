@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/HomeFragment"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home">
+
+    </item>
+
+    <item android:id="@+id/DashboardFragment"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:title="Dashboard">
+
+    </item>
+
+    <item android:id="@+id/NotificationsFragment"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="Notifications">
+
+    </item>
+
+    <item android:id="@+id/FiltvebisGasatbobiFragment"
+        android:icon="@drawable/ic_baseline_smoking_rooms_24"
+        android:title="smoking room">
+
+    </item>
+
+</menu>
